@@ -5,7 +5,10 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F29BFBEE-9DA9-4F2F-A8AF-7519BAF699D4}"
 	ProjectSection(SolutionItems) = preProject
+		about.html = about.html
+		contacto.html = contacto.html
 		index.html = index.html
+		receta.html = receta.html
 	EndProjectSection
 EndProject
 Global
